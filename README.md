@@ -8,7 +8,7 @@ This is a static portfolio. Keep index.html and atri-sana.jpg together in the si
 2. Upload index.html and atri-sana.jpg to the repository root. You may include this README too.
 3. For a repository site, open Settings → Pages, choose Deploy from a branch, select main and / (root), then save. A personal site repository may publish automatically after the first push.
 4. Wait for GitHub Pages to finish publishing. The URL appears in Settings → Pages. Open it on a phone and desktop.
-5. This page is configured for https://atrisana.github.io/addio/. If you publish it at a different address, update the Open Graph URL and canonical link in index.html.
+5. This page is configured for https://atrisana.github.io/cv/. If you publish it at a different address, update the Open Graph URL and canonical link in index.html.
 
 GitHub Pages setup guide: https://docs.github.com/pages/getting-started-with-github-pages/creating-a-github-pages-site
 
